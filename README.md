@@ -30,7 +30,8 @@ Durante a execução dos testes manuais e automatizados, os seguintes comportame
 
 não resisti e tive que criar um vilão 
 
-<img width="306" height="398" alt="image" src="https://github.com/user-attachments/assets/dea26d46-5a5f-4ce7-a7e3-ca81b10bb3ef" />
+<img width="307" height="376" alt="image" src="https://github.com/user-attachments/assets/9c4da55d-9dad-4dcb-a774-b301ce940d58" />
+
 
 
 
