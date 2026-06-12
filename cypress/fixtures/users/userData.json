@@ -12,5 +12,11 @@
   "passwordFailed": {
     "email": "test@test.com",
     "password": "senhaerrada"
+  },
+
+  "adminUserSuccess": {
+    "email": "admin@test.com",
+    "password": "test123"
   }
+
 }  

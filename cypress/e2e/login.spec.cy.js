@@ -6,7 +6,7 @@ const loginPage = new LoginPage()
 
 
 describe('Login com sucesso', () => {
-  it.only('Deve fazer login com um usuário válido', () => {
+  it('Deve fazer login com um usuário válido', () => {
     loginPage.accessLoginPage()
     loginPage.accountLogin(userData.userSuccess.email, userData.userSuccess.password)
   })
