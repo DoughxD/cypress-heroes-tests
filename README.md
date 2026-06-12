@@ -27,6 +27,9 @@ Durante a execução dos testes manuais e automatizados, os seguintes comportame
 - **Severidade:** Média
 - **Prioridade:** Média
 - **Resultado esperado:** Saves deve ser um número >= 0
+<img width="295" height="370" alt="image" src="https://github.com/user-attachments/assets/e8df454a-f50c-4fcf-9c02-a2fcaf0187f7" />
+não resisti e tive que criar um vilão 
+
 ---
 
 ## 💡 Sugestões de melhoria
